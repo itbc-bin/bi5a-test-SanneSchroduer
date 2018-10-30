@@ -1,7 +1,7 @@
 Initialisatie van Tentamen Repository Bi5a-T_1819
-# Naam Student:
-## Studentnummer:
-## Klas:
+# Naam Student: Sanne Schroduer
+## Studentnummer: 600140
+## Klas: BIN-2c
 
 ## Beoordeling Student
 | Onderdeel  | Max Score | Student | Docent |
